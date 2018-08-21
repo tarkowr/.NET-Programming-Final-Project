@@ -1,0 +1,35 @@
+E:\Semester 2\.NET App & Game\Despair\Despair\bin\Debug\Despair.exe.config
+E:\Semester 2\.NET App & Game\Despair\Despair\bin\Debug\Despair.exe
+E:\Semester 2\.NET App & Game\Despair\Despair\bin\Debug\Despair.pdb
+E:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.csprojResolveAssemblyReference.cache
+E:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.csproj.CoreCompileInputs.cache
+E:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.exe
+E:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.pdb
+G:\Semester 2\.NET App & Game\Despair\Despair\bin\Debug\Despair.exe.config
+G:\Semester 2\.NET App & Game\Despair\Despair\bin\Debug\Despair.exe
+G:\Semester 2\.NET App & Game\Despair\Despair\bin\Debug\Despair.pdb
+G:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.csprojResolveAssemblyReference.cache
+G:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.csproj.CoreCompileInputs.cache
+G:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.exe
+G:\Semester 2\.NET App & Game\Despair\Despair\obj\Debug\Despair.pdb
+C:\Users\richa\Desktop\Despair\Despair\bin\Debug\Despair.exe.config
+C:\Users\richa\Desktop\Despair\Despair\bin\Debug\Despair.exe
+C:\Users\richa\Desktop\Despair\Despair\bin\Debug\Despair.pdb
+C:\Users\richa\Desktop\Despair\Despair\obj\Debug\Despair.csprojResolveAssemblyReference.cache
+C:\Users\richa\Desktop\Despair\Despair\obj\Debug\Despair.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\Despair\Despair\obj\Debug\Despair.exe
+C:\Users\richa\Desktop\Despair\Despair\obj\Debug\Despair.pdb
+F:\Despair\Despair\bin\Debug\Despair.exe.config
+F:\Despair\Despair\bin\Debug\Despair.exe
+F:\Despair\Despair\bin\Debug\Despair.pdb
+F:\Despair\Despair\obj\Debug\Despair.csprojResolveAssemblyReference.cache
+F:\Despair\Despair\obj\Debug\Despair.csproj.CoreCompileInputs.cache
+F:\Despair\Despair\obj\Debug\Despair.exe
+F:\Despair\Despair\obj\Debug\Despair.pdb
+F:\Year 1 Semester 2\C#\Despair\Despair\bin\Debug\Despair.exe.config
+F:\Year 1 Semester 2\C#\Despair\Despair\bin\Debug\Despair.exe
+F:\Year 1 Semester 2\C#\Despair\Despair\bin\Debug\Despair.pdb
+F:\Year 1 Semester 2\C#\Despair\Despair\obj\Debug\Despair.csprojResolveAssemblyReference.cache
+F:\Year 1 Semester 2\C#\Despair\Despair\obj\Debug\Despair.csproj.CoreCompileInputs.cache
+F:\Year 1 Semester 2\C#\Despair\Despair\obj\Debug\Despair.exe
+F:\Year 1 Semester 2\C#\Despair\Despair\obj\Debug\Despair.pdb
